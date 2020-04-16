@@ -1,9 +1,5 @@
 ## Marketing Data Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/archibishop/policy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Wagubi Brian built the Marketing Data app as a Free app. This SERVICE is provided by Wagubi Brian at no cost and is intended for use as
 is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
